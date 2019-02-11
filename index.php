@@ -31,8 +31,10 @@
 <div class="form-holder">
             <div class="menu-holder">
                 <ul class="main-links">
-                    <li><a class="normal-link" href="https://dispensational-trap.000webhostapp.com/wp-signup.php">Não tem uma conta?</a></li>
-                    <li><a class="sign-button" href="https://dispensational-trap.000webhostapp.com/wp-signup.php">Criar</a></li>
+                    <li><a class="normal-link" href=" batatapao.github.io/cadastro.php
+">Não tem uma conta?</a></li>
+                    <li><a class="sign-button" href=" batatapao.github.io/cadastro.php
+">Criar</a></li>
                 </ul>
             </div>
             <div class="signin-signup-form">
